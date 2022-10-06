@@ -1,2 +1,2 @@
-# myproject
-this my first machine learning case study on creditcard database
+# My project
+This my first machine learning case study on creditcard database
